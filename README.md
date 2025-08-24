@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first Git Repository.
 <br>
-Author - Arun bishnoi
+Author - Arun (Apna College)
